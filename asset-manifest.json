@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aditi-789/Plan-With-Love.git/static/css/main.226443f9.css",
+    "main.js": "/Aditi-789/Plan-With-Love.git/static/js/main.733fef8d.js",
+    "index.html": "/Aditi-789/Plan-With-Love.git/index.html",
+    "main.226443f9.css.map": "/Aditi-789/Plan-With-Love.git/static/css/main.226443f9.css.map",
+    "main.733fef8d.js.map": "/Aditi-789/Plan-With-Love.git/static/js/main.733fef8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.226443f9.css",
+    "static/js/main.733fef8d.js"
+  ]
+}
